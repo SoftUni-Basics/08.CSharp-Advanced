@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MatrixOfPalindromes", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.LongestNonDecreasingSubsequence", "05.LongestNonDecreasingSubsequence\05.LongestNonDecreasingSubsequence.csproj", "{4399F239-314B-4636-BDA9-F106D7CBEBFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.RemoveNames", "06.RemoveNames\06.RemoveNames.csproj", "{C8718A8D-070A-4AA6-B3CF-4CACA9F6FFEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4399F239-314B-4636-BDA9-F106D7CBEBFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4399F239-314B-4636-BDA9-F106D7CBEBFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4399F239-314B-4636-BDA9-F106D7CBEBFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8718A8D-070A-4AA6-B3CF-4CACA9F6FFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8718A8D-070A-4AA6-B3CF-4CACA9F6FFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8718A8D-070A-4AA6-B3CF-4CACA9F6FFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8718A8D-070A-4AA6-B3CF-4CACA9F6FFEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
