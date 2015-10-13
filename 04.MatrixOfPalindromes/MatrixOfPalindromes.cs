@@ -11,9 +11,7 @@ class MatrixOfPalindromes
         int rows = int.Parse(Console.ReadLine());
         Console.Write("Enter columns of the matrix = ");
         int cols = int.Parse(Console.ReadLine());
-
-        //int[,] matrix = new int[rows, cols];
-
+        
         for (int r = 0; r < rows; r++)
         {
             char ch = (char)(97 + r);
