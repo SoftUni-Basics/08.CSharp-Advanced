@@ -15,7 +15,6 @@ class RemoveNames
 
         for (int i = 0; i < secondList.Count; i++)
         {
-            //firstList.ForEach(x => x == secondList[i]).
             firstList.RemoveAll(names => names == secondList[i]);
         }
 
