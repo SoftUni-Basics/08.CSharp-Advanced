@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.RemoveNames", "06.Remove
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.JoinLists", "07.JoinLists\07.JoinLists.csproj", "{B6043192-2554-46F1-A255-542E7F18B9E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.LongestWordInAText", "08.LongestWordInAText\08.LongestWordInAText.csproj", "{73F1E7A8-7A83-40C0-B9A1-30DD1935A795}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B6043192-2554-46F1-A255-542E7F18B9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6043192-2554-46F1-A255-542E7F18B9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6043192-2554-46F1-A255-542E7F18B9E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F1E7A8-7A83-40C0-B9A1-30DD1935A795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F1E7A8-7A83-40C0-B9A1-30DD1935A795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F1E7A8-7A83-40C0-B9A1-30DD1935A795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F1E7A8-7A83-40C0-B9A1-30DD1935A795}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
